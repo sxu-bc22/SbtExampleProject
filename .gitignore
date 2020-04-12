@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.class
+*.log
+
+.idea/.gitignore
+.idea/codeStyles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+.idea/sbt.xml
+.idea/scala_compiler.xml
+.idea/vcs.xml
+build.sbt
+project/build.properties
+project/target/config-classes/$3af6f6b0061b0171341b.cache
+project/target/config-classes/$9f1528fa697355b124f7.cache
+project/target/config-classes/$a3e4da6681f4548a798c.cache
+project/target/config-classes/$b94a62c51918bf3e2b50.cache
+project/target/scala-2.12/
+project/target/streams/
+target/
