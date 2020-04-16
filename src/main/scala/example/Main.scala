@@ -49,8 +49,11 @@ object Main extends App {
     }
   }
 
+// closure
+  var number : Int = 10
+  def sumx(x : Int) = { number=number + 1; x+number}
 
-
-
+  println("closure: " + sumx(100))
+  println("closure: " + sumx(100))
 }
 
